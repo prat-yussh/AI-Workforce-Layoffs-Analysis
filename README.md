@@ -84,19 +84,19 @@ The dataset contains **12,000 records** and **23 features** related to layoffs, 
 
 ### Top Industries by Total Layoffs
 
-![Top Industries](images/top_industries.png)
+![Top Industries](images/top_industries.PNG)
 
 ### Layoff Distribution
 
-![Histogram](images/layoff_distribution.png)
+![Histogram](images/layoff_distribution.PNG)
 
 ### Employee Sentiment vs Job Security
 
-![Scatter Plot](images/sentiment_vs_security.png)
+![Scatter Plot](images/sentiment_vs_security.PNG)
 
 ### Correlation Heatmap
 
-![Heatmap](images/heatmap.png)
+![Heatmap](images/heatmap.PNG)
 
 ---
 
