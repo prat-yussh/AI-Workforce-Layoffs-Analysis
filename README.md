@@ -82,14 +82,21 @@ The dataset contains **12,000 records** and **23 features** related to layoffs, 
 
 ## Visualizations
 
-The project includes:
+### Top Industries by Total Layoffs
 
-* Bar Charts
-* Scatter Plots
-* Line Charts
-* Histograms
-* Box Plots
-* Correlation Heatmaps
+![Top Industries](images/top_industries.png)
+
+### Layoff Distribution
+
+![Histogram](images/layoff_distribution.png)
+
+### Employee Sentiment vs Job Security
+
+![Scatter Plot](images/sentiment_vs_security.png)
+
+### Correlation Heatmap
+
+![Heatmap](images/heatmap.png)
 
 ---
 
