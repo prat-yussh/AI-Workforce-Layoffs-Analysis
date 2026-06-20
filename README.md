@@ -102,16 +102,19 @@ The dataset contains **12,000 records** and **23 features** related to layoffs, 
 
 ## Project Structure
 
-AI-Workforce-Layoffs-Analysis
-
+```text
+AI-Workforce-Layoffs-Analysis/
+│
 ├── layoffs_analysis.ipynb
-
 ├── tech_layoffs_hiring_trends_elite_v2.csv
-
 ├── README.md
-
 ├── requirements.txt
-
+└── images/
+    ├── top_industries.PNG
+    ├── layoff_distribution.PNG
+    ├── sentiment_vs_security.PNG
+    └── heatmap.PNG
+```
 ---
 
 ## Conclusion
